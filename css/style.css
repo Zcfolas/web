@@ -1,0 +1,29 @@
+*{margin:0; padding:0;font-family: "微软雅黑";}
+body{background-color: #bebebe;}
+/*导航栏*/
+.header{height: 70px;width: 100% ;background-color: #434343;position: fixed;top: 0;}
+.header_logo{margin: 10px 0 0 10px;position: absolute;left: 2%}
+.header_nav{position: absolute;right: 2%;top: 25px;}
+.header_nav li{float: left;margin-left: 30px; }
+.header_nav li a {color: #e4e4e4;font-size: 20px;text-decoration: none;}
+/*主体样式*/
+.passage{background-color: #ececec;width: 90%;margin: 0 auto;box-shadow:4px 4px 7px #888888;;margin-top: 90px;padding: 30px 45px ;}
+.passage .passage_1{color: #656565;font-size: 20px;}
+.passage2{background-color: #ececec;width: 90%;margin: 0 auto;box-shadow:4px 4px 7px #888888;;margin-top: 20px;padding: 30px 45px ;}
+.passage2 .passage2_1{color: #656565;font-size: 20px;}
+.passage2 .passage2_2{position: relative;left: 1em;}
+.passage3{background-color: #ececec;width: 90%;margin: 0 auto;box-shadow:4px 4px 7px #888888;;margin-top: 20px;padding: 30px 45px ;}
+.passage3 .passage3_1{color: #656565;font-size: 20px;}
+.passage3 .passage3_2{position: relative;left: 1em;}
+.passage3 .passage3_3 {width: 70%;height: 150px;text-align: center;background-color:#dedede; margin: 0 auto;}
+.passage3 .passage3_3 th{color: #e6e6e6;background-color: #5a5a5a;}
+.passage3 .passage3_4{background-color: #c8c8c8;}
+.passage4{background-color: #ececec;width: 90%;margin: 0 auto;box-shadow:4px 4px 7px #888888;;margin-top: 20px;padding: 30px 45px ; }
+.passage4 .passage4_1{width: 10px;height: 40px;background: #1e95e8;display: inline-block;margin: 0px 10px -10px 0;}
+.passage4 .passage4_2{width: 600px;margin: 0 auto;}
+.passage4 .passage4_2 span{width: 50%;float: left;text-align:right; }
+.passage4 .passage4_3{color:#6f6f6f;font-size: 15px;font-style: italic;margin-left: 10em;}
+.passage4 .passage4_4{width:100%;height: 40px;border-radius: 10px;margin-top: 10px;font-size: 100%;color: white;
+	                   background-color:#2a2a2a;}
+.footer{background-color: black;height: 70px;margin-top: 10px;}
+.footer p{font-size: 14px; text-align: center;line-height: 60px;color: white;}
